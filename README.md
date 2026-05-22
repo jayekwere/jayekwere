@@ -6,6 +6,8 @@
 
 <h2>📑 Certifications </h2>
 
+- [CISM] ()
+- [CySA +] ()
 - [CompTIA Security +] ()
 
 - 
