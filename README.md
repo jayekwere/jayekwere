@@ -1,30 +1,40 @@
-<h1>Hi, I'm Jonathan! </h1>
+# Hi, I'm Jonathan 👋
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+**Cybersecurity Professional - Security Engineering · Cloud · Vulnerability Management**
+📍 Vancouver, BC
 
-- ActiveDirectoryHomeLab (https://github.com/jayekwere/ActiveDirectoryLab)
+Security professional with 10+ years across IT and cybersecurity, comfortable from the endpoint to
+the cloud. My work spans vulnerability management, identity and least-privilege (PAM/EPM), cloud
+security across GCP and Azure, application security, and security operations — backed by
+both defensive depth and offensive fundamentals. I translate technical risk into clear,
+actionable remediation for engineers and leadership alike, and I'm currently exploring where machine
+learning meets security operations, from CVE exploitation prediction to anomaly detection on
+AI-agent behavior.
 
-<h2>📑 Certifications </h2>
+## 👨‍💻 Featured Projects
 
-- [CISM] ()
-- [CySA +] ()
-- [CompTIA Security +] ()
+**[AI-Agent Anomaly Detection](https://github.com/jayekwere/agent-anomaly-detection)**
+Unsupervised anomaly detection (Isolation Forest, sequence-level features) for flagging compromised
+or misbehaving AI agents. A study in honest evaluation — caught feature leakage behind an inflated
+ROC-AUC, rebuilt the dataset realistically, and reported the true result.
 
-- 
-<h2> 🤳 Connect with me:</h2>
+**[CVE Exploit Prediction](https://github.com/jayekwere/cve-exploit-prediction)**
+ML pipeline predicting which CVEs land in CISA's KEV catalog using public threat intel (EPSS + KEV).
+Built to test how much exploitation signal is recoverable from open feeds — evaluated on
+precision/recall, with limitations documented honestly.
 
+**[Active Directory Home Lab](https://github.com/jayekwere/ActiveDirectoryLab)**
+Hands-on AD environment for practicing detection engineering and log analysis.
+<!-- TODO: edit this line to match what you actually built (e.g. Splunk ingestion, failed-logon telemetry) -->
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📑 Certifications
+- **Proofpoint Certified AI Agent Security Specialist**
+- **CEH** — Certified Ethical Hacker
+- **CompTIA CySA+** — Cybersecurity Analyst
+- **CompTIA CSAP** — Security Analytics Professional (stackable)
+- **CISM** — Certified Information Security Manager
+- **Microsoft Certified: Azure Fundamentals**
+- **Cybrary** — Customer Service Certification Training
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Connect
+- 📫 jonathan_ekwere@yahoo.com
