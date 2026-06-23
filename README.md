@@ -1,15 +1,15 @@
 # Hi, I'm Jonathan 👋
-
 **Cybersecurity Professional - Security Engineering · Cloud · Vulnerability Management**
 📍 Vancouver, BC
 
 Security professional with 10+ years across IT and cybersecurity, comfortable from the endpoint to
 the cloud. My work spans vulnerability management, identity and least-privilege (PAM/EPM), cloud
 security across GCP and Azure, application security, and security operations — backed by
-both defensive depth and offensive fundamentals. I translate technical risk into clear,
-actionable remediation for engineers and leadership alike, and I'm currently exploring where machine
-learning meets security operations, from CVE exploitation prediction to anomaly detection on
-AI-agent behavior.
+both defensive depth and offensive fundamentals. On the AppSec side I work hands-on across SAST
+(Semgrep, CodeQL), SCA (Snyk, Dependabot), DAST (OWASP ZAP), secret scanning (TruffleHog), and
+CI/CD pipeline hardening. I translate technical risk into clear, actionable remediation for
+engineers and leadership alike, and I'm currently exploring where machine learning meets security
+operations, from CVE exploitation prediction to anomaly detection on AI-agent behavior.
 
 ## 👨‍💻 Featured Projects
 
@@ -21,11 +21,11 @@ ROC-AUC, rebuilt the dataset realistically, and reported the true result.
 **[CVE Exploit Prediction](https://github.com/jayekwere/cve-exploit-prediction)**
 ML pipeline predicting which CVEs land in CISA's KEV catalog using public threat intel (EPSS + KEV).
 Built to test how much exploitation signal is recoverable from open feeds — evaluated on
-precision/recall, with limitations documented honestly.
+precision/recall, with limitations documented honestly. Also runs a hardened GitHub Actions security
+pipeline (Semgrep · Snyk · TruffleHog · CodeQL · Dependabot) as a working DevSecOps reference.
 
 **[Active Directory Home Lab](https://github.com/jayekwere/ActiveDirectoryLab)**
 Hands-on AD environment for practicing detection engineering and log analysis.
-<!-- TODO: edit this line to match what you actually built (e.g. Splunk ingestion, failed-logon telemetry) -->
 
 ## 📑 Certifications
 - **Proofpoint Certified AI Agent Security Specialist**
@@ -34,7 +34,6 @@ Hands-on AD environment for practicing detection engineering and log analysis.
 - **CompTIA CSAP** — Security Analytics Professional (stackable)
 - **CISM** — Certified Information Security Manager
 - **Microsoft Certified: Azure Fundamentals**
-- **Cybrary** — Customer Service Certification Training
 
 ## 🤝 Connect
 - 📫 jonathan_ekwere@yahoo.com
