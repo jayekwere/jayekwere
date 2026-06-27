@@ -13,19 +13,11 @@ operations, from CVE exploitation prediction to anomaly detection on AI-agent be
 
 ## 👨‍💻 Featured Projects
 
-**[AI-Agent Anomaly Detection](https://github.com/jayekwere/agent-anomaly-detection)**
-Unsupervised anomaly detection (Isolation Forest, sequence-level features) for flagging compromised
-or misbehaving AI agents. A study in honest evaluation — caught feature leakage behind an inflated
-ROC-AUC, rebuilt the dataset realistically, and reported the true result.
+**[ocisec](https://github.com/jayekwere/ocisec)** Go static analyzer for OCI runtime specs that flags container-escape misconfigurations — dangerous capabilities, host namespace sharing, missing seccomp/AppArmor, unsafe host mounts — by parsing against the upstream `opencontainers/runtime-spec` types rather than regex. Enforced as a CI gate via severity-based exit codes; the repo's own CI proves the gate trips.
 
-**[CVE Exploit Prediction](https://github.com/jayekwere/cve-exploit-prediction)**
-ML pipeline predicting which CVEs land in CISA's KEV catalog using public threat intel (EPSS + KEV).
-Built to test how much exploitation signal is recoverable from open feeds — evaluated on
-precision/recall, with limitations documented honestly. Also runs a hardened GitHub Actions security
-pipeline (Semgrep · Snyk · TruffleHog · CodeQL · Dependabot) as a working DevSecOps reference.
+**[AI-Agent Anomaly Detection](https://github.com/jayekwere/agent-anomaly-detection)** Unsupervised anomaly detection (Isolation Forest, sequence-level features) for flagging compromised or misbehaving AI agents. A study in honest evaluation — caught feature leakage behind an inflated ROC-AUC, rebuilt the dataset realistically, and reported the true result.
 
-**[Active Directory Home Lab](https://github.com/jayekwere/ActiveDirectoryLab)**
-Hands-on AD environment for practicing detection engineering and log analysis.
+**[CVE Exploit Prediction](https://github.com/jayekwere/cve-exploit-prediction)** ML pipeline predicting which CVEs land in CISA's KEV catalog using public threat intel (EPSS + KEV). Built to test how much exploitation signal is recoverable from open feeds — evaluated on precision/recall, with limitations documented honestly.
 
 ## 📑 Certifications
 - **Proofpoint Certified AI Agent Security Specialist**
