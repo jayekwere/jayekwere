@@ -1,5 +1,5 @@
 # Hi, I'm Jonathan 👋
-**Cybersecurity Professional - Security Engineering · Cloud **
+**Security Engineering · Cloud Security · DevSecOps · Vulnerability Management**
 📍 Vancouver, BC
 
 Security professional with years of experience across IT and cybersecurity, comfortable from the endpoint to
