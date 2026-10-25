@@ -1,15 +1,8 @@
 # Hi, I'm Jonathan 👋
-**Security Engineering · Cloud Security · DevSecOps · Vulnerability Management**
-📍 Vancouver, BC
 
-Security professional with years of experience across IT and cybersecurity, comfortable from the endpoint to
-the cloud. My work spans vulnerability management, identity and least-privilege (PAM/EPM), cloud
-security across GCP and Azure, application security, and security operations, backed by
-both defensive depth and offensive fundamentals. On the AppSec side I work hands-on across SAST
-(Semgrep, CodeQL), SCA (Snyk, Dependabot), DAST (OWASP ZAP), secret scanning (TruffleHog), and
-CI/CD pipeline hardening. I translate technical risk into clear, actionable remediation for
-engineers and leadership alike, and I'm currently exploring where machine learning meets security
-operations, from CVE exploitation prediction to anomaly detection on AI-agent behavior.
+Building practical projects and sharing what I learn.
+
+📍 Vancouver, BC
 
 ## 👨‍💻 Featured Projects
 
