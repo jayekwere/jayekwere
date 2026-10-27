@@ -15,3 +15,4 @@
 ## 🤝 Connect
 
 - 📫 [jonathan_ekwere@yahoo.com](mailto:jonathan_ekwere@yahoo.com)
+- 📫 [jonathanekwere95@gmail.com](mailto:jonathan_ekwere@yahoo.com)
