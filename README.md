@@ -1,18 +1,18 @@
-# Hi, I'm Jonathan
+# Jay Ekwere
 
-I build security engineering tools for cloud infrastructure, identity, secure delivery, and detection.
+I focus on cloud security, identity and access control, secure delivery, and detection engineering.
 
-## Selected projects
+I work with Python, TypeScript, Go, and Terraform, emphasizing tested controls and documented limitations.
 
-- **[ReviewShield](https://github.com/jayekwere/reviewshield)**: SARIF review engine and GitHub App for source-bound security checks.
-- **[StackGuard](https://github.com/jayekwere/stackguard)**: Terraform plan review with OPA/Rego policies and digest-bound evidence.
-- **[MCP Sentinel](https://github.com/jayekwere/mcp-sentinel)**: Authentication, tool authorization, approvals, and audit trails for MCP agents.
-- **[CloudThreat Lab](https://github.com/jayekwere/cloudthreat-lab)**: Detection rules, replay, and investigation for cloud and agent audit exports.
-- **[PrivilegePath](https://github.com/jayekwere/privilegepath)**: AWS, Azure, and GCP IAM graph analysis with evidence and unresolved access constraints.
-- **[RemediationOS](https://github.com/jayekwere/remediationos)**: Vulnerability triage and remediation tracking with CVSS, EPSS, KEV, and rescan evidence checks.
-- **[ResponseForge](https://github.com/jayekwere/responseforge)**: Incident response planning with independent approvals, bounded actions, and outcome verification.
-- **[Hardened Container Supply Chain](https://github.com/jayekwere/hardened-container-supply-chain)**: Reproducible container builds, vulnerability gates, signed releases, and Kubernetes admission checks.
+## Areas of work
 
-[More repositories](https://github.com/jayekwere?tab=repositories)
+| Area | Selected work |
+| --- | --- |
+| Cloud security | S3/KMS access controls, audit logging, and protected Terraform state. [Secure AWS Platform](https://github.com/jayekwere/secure-aws-platform) |
+| Infrastructure and supply chain | Reproducible builds, signed releases, and Kubernetes admission checks. [Hardened Container Supply Chain](https://github.com/jayekwere/hardened-container-supply-chain) |
+| Identity and agent security | IAM relationship analysis and MCP tool authorization. [PrivilegePath](https://github.com/jayekwere/privilegepath) · [MCP Sentinel](https://github.com/jayekwere/mcp-sentinel) |
+| Code review | Scanner evidence and source-bound GitHub security checks. [ReviewShield](https://github.com/jayekwere/reviewshield) |
+| Detection and response | Audit-event replay and approval-gated response workflows. [CloudThreat Lab](https://github.com/jayekwere/cloudthreat-lab) · [ResponseForge](https://github.com/jayekwere/responseforge) |
+| Vulnerability management | Prioritization, remediation tracking, and rescan evidence checks. [RemediationOS](https://github.com/jayekwere/remediationos) |
 
-[Contact](mailto:jonathan_ekwere@yahoo.com)
+[More repositories](https://github.com/jayekwere?tab=repositories) · [Contact](mailto:jonathan_ekwere@yahoo.com)
