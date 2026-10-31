@@ -1,9 +1,3 @@
-# Jay Ekwere
-
-I focus on cloud security, identity and access control, secure delivery, and detection engineering.
-
-I work with Python, TypeScript, Go, and Terraform, emphasizing tested controls and documented limitations.
-
 ## Areas of work
 
 | Area | Selected work |
