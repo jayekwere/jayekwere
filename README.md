@@ -1,12 +1,12 @@
 ## Areas of work
 
 | Area | Selected work |
-| --- | --- |
-| Cloud security | S3/KMS access controls, audit logging, and protected Terraform state. [Secure AWS Platform](https://github.com/jayekwere/secure-aws-platform) |
-| Infrastructure and supply chain | Reproducible builds, signed releases, and Kubernetes admission checks. [Hardened Container Supply Chain](https://github.com/jayekwere/hardened-container-supply-chain) |
-| Identity and agent security | IAM relationship analysis and MCP tool authorization. [PrivilegePath](https://github.com/jayekwere/privilegepath) · [MCP Sentinel](https://github.com/jayekwere/mcp-sentinel) |
-| Code review | Scanner evidence and source-bound GitHub security checks. [ReviewShield](https://github.com/jayekwere/reviewshield) |
-| Detection and response | Audit-event replay and approval-gated response workflows. [CloudThreat Lab](https://github.com/jayekwere/cloudthreat-lab) · [ResponseForge](https://github.com/jayekwere/responseforge) |
-| Vulnerability management | Prioritization, remediation tracking, and rescan evidence checks. [RemediationOS](https://github.com/jayekwere/remediationos) |
+|---|---|
+| **Cloud and infrastructure security** | Terraform infrastructure, AWS access controls, protected state, and Kubernetes security baselines. [Secure AWS Platform](https://github.com/jayekwere/secure-aws-platform) · [EKS Security Baseline](https://github.com/jayekwere/terraform-aws-eks-security-baseline) |
+| **Application security** | Scanner evidence and security checks for code reviews. [ReviewShield](https://github.com/jayekwere/reviewshield) |
+| **Identity and agent security** | Agent authentication, tool authorization, and independent approvals. [MCP Sentinel](https://github.com/jayekwere/mcp-sentinel) |
+| **DevSecOps and software supply chain** | CI security gates, reproducible builds, signed releases, and Kubernetes admission checks. [CI/CD Security Pipeline](https://github.com/jayekwere/ci-cd-security-pipeline) · [Hardened Container Supply Chain](https://github.com/jayekwere/hardened-container-supply-chain) |
+| **Detection and response** | Cloud audit-event replay, detection rules, and investigation. [CloudThreat Lab](https://github.com/jayekwere/cloudthreat-lab) |
+| **Vulnerability management** | Prioritization, remediation tracking, and rescan evidence checks. [RemediationOS](https://github.com/jayekwere/remediationos) |
 
 [More repositories](https://github.com/jayekwere?tab=repositories) · [Contact](mailto:jonathan_ekwere@yahoo.com)
